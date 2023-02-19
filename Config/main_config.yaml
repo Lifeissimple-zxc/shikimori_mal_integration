@@ -1,0 +1,10 @@
+SHIKIMORI:
+  user_agent: "MAL_migrator"
+  token_cache: "Cache/shiki_token.json"
+  token_validity_buffer_min: 15
+  rps: 5
+  rpm: 90
+  timeout: 120 # In seconds
+
+
+MAL: #MAL = My Anime List

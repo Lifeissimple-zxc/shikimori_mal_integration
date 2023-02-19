@@ -1,0 +1,9 @@
+# Skipping Cached stuff, will need to move manually
+Cache/shiki_token.json
+# Skipping pycache folders
+__pycache__
+# Skipping .env stuff, supposed to be secret :)
+.env
+# Skipping venv stuff
+env/
+venv/
