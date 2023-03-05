@@ -8,4 +8,4 @@ SHIKI_CLIENT_SECRET = getenv("SHIKI_CLIENT_SECRET")
 SHIKI_REDIRECT_URL = getenv("SHIKI_REDIRECT_URL")
 SHIKI_AUTH_CODE = getenv("SHIKI_AUTH_CODE")
 
-from migrationToolbox.shikiClient import ShikimoriClient
+from gateways.shikimori_client import ShikimoriClient
